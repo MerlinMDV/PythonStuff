@@ -8,7 +8,9 @@ Version 1.0:
 
 Version 2.0:
 >Program more efficient; ~50000 bytes smaller.
+
 >Added Downloads folder nuker
+
 >Twice as fast
 
 Version 2.1:
@@ -17,5 +19,5 @@ Version 2.1:
 Version 2.2:
 >30 times as fast!
 
->Version 3.0:
+Version 3.0:
 >New payloads! (Windows theme changes, random chance of BSOD.)
